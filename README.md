@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Data science related projects.
 - 🤔 I’m looking for help with Docker deployment
 - 💬 Ask me about Computer Vision, Tensorflow, NLP, Deep Learning and ML.
-- 📫 How to reach me: Contact me directly on this mail pulkit12dhingra@gmail.com
+- 📫 How to reach me: Contact me directly on this mail pulkit12dhingra@gmail.com or Linkedin https://www.linkedin.com/in/pulkit-dhingra-4b7312193/
 - 😄 Pronouns: You can give one :)
 - ⚡ Fun fact: I can visualize panaroma effect by my eyes itself
