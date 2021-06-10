@@ -11,4 +11,4 @@
 - 📫 How to reach me: Contact me directly on this mail pulkit12dhingra@gmail.com or Linkedin https://www.linkedin.com/in/pulkit-dhingra-4b7312193/
 - 😄 Pronouns: You can give one :)
 - ⚡ Fun fact: I can visualize panaroma effect by my eyes itself
-p.s. here is my portfolio as well http://django-portf.herokuapp.com/
+- p.s. here is my portfolio as well http://django-portf.herokuapp.com/
