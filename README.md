@@ -9,3 +9,4 @@
 - 💬 Ask me about Software Development, Machine learning, DevOps, Python programming, AWS, GCP.
 - 📫 How to reach me: Contact me directly on this mail pulkit12dhingra@gmail.com or Linkedin https://www.linkedin.com/in/pulkit-dhingra-4b7312193/
 - p.s. here is my portfolio as well https://pulkit12dhingra.github.io/portfolio/
+- Other Profiles [Leetcode](https://leetcode.com/u/pulkit12dhingra/)
